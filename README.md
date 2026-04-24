@@ -8,7 +8,6 @@
           \|
            |
  
- 
 An elegant, dynamically typed educational programming language.
  
 [![C++17](https://img.shields.io/badge/C++-17-blue.svg?style=flat-square)](#)
@@ -57,10 +56,8 @@ To start the interactive REPL, simply run the compiled executable:
 ```
  
 *(You can also run files by piping them into the interpreter: `./lilies < script.lil`)*
- 
----
- 
-## 📖 Language Tour
+  
+## Language Tour
  
 Here is a quick overview of what lilies can do!
  
