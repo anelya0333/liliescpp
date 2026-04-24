@@ -39,7 +39,7 @@ You need a modern C++ compiler that supports **C++17** (like GCC, Clang, or MSVC
  
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/lilies.git](https://github.com/yourusername/lilies.git)
+   git clone https://github.com/anelya0333/liliescpp
    cd lilies
    ```
  
